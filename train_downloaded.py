@@ -34,7 +34,6 @@ def main():
         data=yaml_path,
         epochs=50,
         imgsz=640,
-        device='cpu', # CPU for now
         plots=True,
         project='runs/detect',
         name='rummikub_downloaded'

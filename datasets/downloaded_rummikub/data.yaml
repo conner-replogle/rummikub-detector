@@ -1,0 +1,65 @@
+names:
+- black_1
+- black_10
+- black_11
+- black_12
+- black_13
+- black_2
+- black_3
+- black_4
+- black_5
+- black_6
+- black_7
+- black_8
+- black_9
+- blue_1
+- blue_10
+- blue_11
+- blue_12
+- blue_13
+- blue_2
+- blue_3
+- blue_4
+- blue_5
+- blue_6
+- blue_7
+- blue_8
+- blue_9
+- joker
+- orange_1
+- orange_10
+- orange_11
+- orange_12
+- orange_13
+- orange_2
+- orange_3
+- orange_4
+- orange_5
+- orange_6
+- orange_7
+- orange_8
+- orange_9
+- red_1
+- red_10
+- red_11
+- red_12
+- red_13
+- red_2
+- red_3
+- red_4
+- red_5
+- red_6
+- red_7
+- red_8
+- red_9
+nc: 53
+path: /Users/connerreplogle/dev/rummikub-detector/datasets/downloaded_rummikub
+roboflow:
+  license: CC BY 4.0
+  project: rummikub-nvypk-8cwem
+  url: https://universe.roboflow.com/rummikue/rummikub-nvypk-8cwem/dataset/1
+  version: 1
+  workspace: rummikue
+test: test/images
+train: train/images
+val: valid/images
